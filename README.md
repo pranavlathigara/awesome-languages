@@ -18,6 +18,6 @@ A curated list of awesome (IMHO) programming languages (with an open-source impl
 ### Less known :yum:
 
 ### WTF :mask:
-* [Brainfuck](https://github.com/fabianm/brainfuck)
+* [Brainfuck](https://github.com/fabianm/brainfuck), ```++++++++[>+>++>+++>++++>+++++>++++++>+++++++>++++++++>+++++++++>++++++++++>+++++++++++>++++++++++++>+++++++++++++>++++++++++++++>+++++++++++++++>++++++++++++++++<<<<<<<<<<<<<<<<-]>>>>>>>>++.--<<<<<<<<>>>>>>>>>>>>>>++.--<<<<<<<<<<<<<<>>>>>>>>>>>>+.-<<<<<<<<<<<<>>>>>>>>>>>>>+.-<<<<<<<<<<<<<>>>>>>>>>>>>>>--.++<<<<<<<<<<<<<<>>>>>>>>>>>>>--.++<<<<<<<<<<<<<>>>>>>>>>>>>>>>---.+++<<<<<<<<<<<<<<<>>>>>>>>>>>>+++.---<<<<<<<<<<<<>>>>>>>>>>>>>+++.---<<<<<<<<<<<<<>>>>+.-<<<<.```
 * [ArnoldC](https://github.com/lhartikk/ArnoldC), Arnold-Schwarzenegger-based language
-* [Groot](https://github.com/thiagopnts/groot)
+* [Groot](https://github.com/thiagopnts/groot), "I are Groot"
