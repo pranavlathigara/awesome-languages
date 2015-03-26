@@ -16,6 +16,11 @@ A curated list of awesome (IMHO) programming languages (with an open-source impl
   * C# : Only Windows, too slow
 
 ### Less known :yum:
+* [Wren](https://github.com/munificent/wren), a really nice scripting language
+* [Idris](http://idris-lang.org/)
+* [Red](http://red-lang.org/), really nice !
+* [Earl Grey](https://github.com/breuleux/earl-grey), neat scripting languages compiling to JS
+* [OpenDylan](http://opendylan.org/)
 
 ### WTF :mask:
 * [Brainfuck](https://github.com/fabianm/brainfuck), ```++++++++[>+>++>+++>++++>+++++>++++++>+++++++>++++++++>+++++++++>++++++++++>+++++++++++>++++++++++++>+++++++++++++>++++++++++++++>+++++++++++++++>++++++++++++++++<<<<<<<<<<<<<<<<-]>>>>>>>>++.--<<<<<<<<>>>>>>>>>>>>>>++.--<<<<<<<<<<<<<<>>>>>>>>>>>>+.-<<<<<<<<<<<<>>>>>>>>>>>>>+.-<<<<<<<<<<<<<>>>>>>>>>>>>>>--.++<<<<<<<<<<<<<<>>>>>>>>>>>>>--.++<<<<<<<<<<<<<>>>>>>>>>>>>>>>---.+++<<<<<<<<<<<<<<<>>>>>>>>>>>>+++.---<<<<<<<<<<<<>>>>>>>>>>>>>+++.---<<<<<<<<<<<<<>>>>+.-<<<<.```
