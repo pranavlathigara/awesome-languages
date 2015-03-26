@@ -2,6 +2,8 @@
 A curated list of awesome (IMHO) programming languages (with an open-source implementation)
 > This list sucks :cold_sweat:. Help me !
 
+![alt text](http://www.willkara.com/content/images/2014/Sep/frustrated-annoyed-programming-fuck-this-blinds-css-fuck-it-peter-griffin-frustrated-with-blind.gif "CSS")
+
 ### the known ones :bowtie:
 * [Ruby](https://github.com/ruby/ruby)
 * [PHP](https://github.com/php/php-src)
@@ -13,7 +15,7 @@ A curated list of awesome (IMHO) programming languages (with an open-source impl
   * C# : Only Windows, too slow
 
 ### the less known ones :yum:
-
+* 
 ### the WTF ones :mask:
 * [Brainfuck](https://github.com/fabianm/brainfuck)
 * [ArnoldC](https://github.com/lhartikk/ArnoldC), Arnold-Schwarzenegger-based language
