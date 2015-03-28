@@ -31,6 +31,7 @@ A curated list of awesome (IMHO) programming languages (with an open-source impl
 * [GoSu](http://gosu-lang.github.io/), interesting, unfortunately runs on the JVM
 * [Factor](https://github.com/slavapestov/factor), funny to learn because it uses the reverse polish notation for *everything*
 * [Spow](https://github.com/Gioyik/Spow), interesting if you're learning (compiler, etc..) but dead
+* [Frege](https://github.com/Frege/frege), Haskell-ish language targeting the JVM
 
 ### WTF :mask:
 * [Brainfuck](https://github.com/fabianm/brainfuck), ```++++++++[>+>++>+++>++++>+++++>++++++>+++++++>++++++++>+++++++++>++++++++++>+++++++++++>++++++++++++>+++++++++++++>++++++++++++++>+++++++++++++++>++++++++++++++++<<<<<<<<<<<<<<<<-]>>>>>>>>++.--<<<<<<<<>>>>>>>>>>>>>>++.--<<<<<<<<<<<<<<>>>>>>>>>>>>+.-<<<<<<<<<<<<>>>>>>>>>>>>>+.-<<<<<<<<<<<<<>>>>>>>>>>>>>>--.++<<<<<<<<<<<<<<>>>>>>>>>>>>>--.++<<<<<<<<<<<<<>>>>>>>>>>>>>>>---.+++<<<<<<<<<<<<<<<>>>>>>>>>>>>+++.---<<<<<<<<<<<<>>>>>>>>>>>>>+++.---<<<<<<<<<<<<<>>>>+.-<<<<.```
