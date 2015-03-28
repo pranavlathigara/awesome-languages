@@ -5,6 +5,8 @@ A curated list of awesome (IMHO) programming languages (with an open-source impl
 ![alt text](https://raw.githubusercontent.com/perfaram/awesome-languages/master/Raptor.jpg "Philosiraptor")
 
 ### Famous :bowtie:
+* [Elixir](https://github.com/elixir-lang/elixir)
+* [Erlang](https://github.com/erlang/otp), especially like this one :heart:
 * [Ruby](https://github.com/ruby/ruby)
 * [PHP](https://github.com/php/php-src)
 * [Javascript (V8 Implementation)](https://github.com/v8/v8-git-mirror)
