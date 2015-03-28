@@ -12,6 +12,7 @@ A curated list of awesome (IMHO) programming languages (with an open-source impl
 * [Javascript (V8 Implementation)](https://github.com/v8/v8-git-mirror)
 * [D](https://github.com/D-Programming-Language/dmd)
 * Objective-C (Clang/LLVM)
+* [Nim (formerly Nimrod)](https://github.com/Araq/Nim), compiles to C, garbage collected, nice syntax, :+1:
 * NOT AWESOME : 
   * C : because it lacks soooo many things
   * C++ : unsafe, no memory management (let's reinvent the wheel), steep learning curve
