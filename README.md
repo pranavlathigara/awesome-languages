@@ -2,7 +2,7 @@
 A curated list of awesome (IMHO) programming languages (with an open-source implementation)
 > This list sucks :cold_sweat:. Help me !
 
-![alt text](http://www.quickmeme.com/img/3c/3cb3f9eb0387d10fc6c63471e83155d63f3d1c477c1f5a6a2ccd28848aad6c59.jpg "Philosiraptor")
+![alt text](https://raw.githubusercontent.com/perfaram/awesome-languages/master/Raptor.jpg "Philosiraptor")
 
 ### Famous :bowtie:
 * [Ruby](https://github.com/ruby/ruby)
