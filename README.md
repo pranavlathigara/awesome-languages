@@ -26,6 +26,7 @@ A curated list of awesome (IMHO) programming languages (with an open-source impl
 * [Earl Grey](https://github.com/breuleux/earl-grey), neat scripting languages compiling to JS
 * [OpenDylan](http://opendylan.org/)
 * [Chapel](https://github.com/chapel-lang/chapel)
+* [Dao](http://www.daovm.net/)
 
 ### WTF :mask:
 * [Brainfuck](https://github.com/fabianm/brainfuck), ```++++++++[>+>++>+++>++++>+++++>++++++>+++++++>++++++++>+++++++++>++++++++++>+++++++++++>++++++++++++>+++++++++++++>++++++++++++++>+++++++++++++++>++++++++++++++++<<<<<<<<<<<<<<<<-]>>>>>>>>++.--<<<<<<<<>>>>>>>>>>>>>>++.--<<<<<<<<<<<<<<>>>>>>>>>>>>+.-<<<<<<<<<<<<>>>>>>>>>>>>>+.-<<<<<<<<<<<<<>>>>>>>>>>>>>>--.++<<<<<<<<<<<<<<>>>>>>>>>>>>>--.++<<<<<<<<<<<<<>>>>>>>>>>>>>>>---.+++<<<<<<<<<<<<<<<>>>>>>>>>>>>+++.---<<<<<<<<<<<<>>>>>>>>>>>>>+++.---<<<<<<<<<<<<<>>>>+.-<<<<.```
