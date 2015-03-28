@@ -28,6 +28,7 @@ A curated list of awesome (IMHO) programming languages (with an open-source impl
 * [Chapel](https://github.com/chapel-lang/chapel)
 * [Dao](http://www.daovm.net/)
 * [GoSu](http://gosu-lang.github.io/), interesting, unfortunately runs on the JVM
+* [Factor](https://github.com/slavapestov/factor), funny to learn because it uses the reverse polish notation for *everything*
 
 ### WTF :mask:
 * [Brainfuck](https://github.com/fabianm/brainfuck), ```++++++++[>+>++>+++>++++>+++++>++++++>+++++++>++++++++>+++++++++>++++++++++>+++++++++++>++++++++++++>+++++++++++++>++++++++++++++>+++++++++++++++>++++++++++++++++<<<<<<<<<<<<<<<<-]>>>>>>>>++.--<<<<<<<<>>>>>>>>>>>>>>++.--<<<<<<<<<<<<<<>>>>>>>>>>>>+.-<<<<<<<<<<<<>>>>>>>>>>>>>+.-<<<<<<<<<<<<<>>>>>>>>>>>>>>--.++<<<<<<<<<<<<<<>>>>>>>>>>>>>--.++<<<<<<<<<<<<<>>>>>>>>>>>>>>>---.+++<<<<<<<<<<<<<<<>>>>>>>>>>>>+++.---<<<<<<<<<<<<>>>>>>>>>>>>>+++.---<<<<<<<<<<<<<>>>>+.-<<<<.```
