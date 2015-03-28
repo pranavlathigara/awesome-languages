@@ -19,6 +19,7 @@ A curated list of awesome (IMHO) programming languages (with an open-source impl
 * [AHK](https://github.com/lexikos/autohotkey_l)
 * [Wren](https://github.com/munificent/wren), a really nice scripting language
 * [Idris](http://idris-lang.org/)
+* [Vivaldi](https://github.com/jeorgun/Vivaldi), rather new but interesting
 * [Red](http://red-lang.org/), really nice !
 * [Earl Grey](https://github.com/breuleux/earl-grey), neat scripting languages compiling to JS
 * [OpenDylan](http://opendylan.org/)
