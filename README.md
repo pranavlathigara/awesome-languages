@@ -35,6 +35,7 @@ A curated list of awesome (IMHO) programming languages (with an open-source impl
 * [Spow](https://github.com/Gioyik/Spow), interesting if you're learning (compiler, etc..) but dead
 * [Frege](https://github.com/Frege/frege), Haskell-ish language targeting the JVM
 * [Fancy](https://github.com/bakkdoor/fancy), dynamic, object-oriented programming language inspired by Smalltalk, Ruby, Io and Erlang that runs on the Rubinius VM
+* [PogoScript](https://github.com/featurist/pogoscript), DSL friendly language with excellent concurrency primitives
 
 ### WTF :mask:
 * [Brainfuck](https://github.com/fabianm/brainfuck), ```++++++++[>+>++>+++>++++>+++++>++++++>+++++++>++++++++>+++++++++>++++++++++>+++++++++++>++++++++++++>+++++++++++++>++++++++++++++>+++++++++++++++>++++++++++++++++<<<<<<<<<<<<<<<<-]>>>>>>>>++.--<<<<<<<<>>>>>>>>>>>>>>++.--<<<<<<<<<<<<<<>>>>>>>>>>>>+.-<<<<<<<<<<<<>>>>>>>>>>>>>+.-<<<<<<<<<<<<<>>>>>>>>>>>>>>--.++<<<<<<<<<<<<<<>>>>>>>>>>>>>--.++<<<<<<<<<<<<<>>>>>>>>>>>>>>>---.+++<<<<<<<<<<<<<<<>>>>>>>>>>>>+++.---<<<<<<<<<<<<>>>>>>>>>>>>>+++.---<<<<<<<<<<<<<>>>>+.-<<<<.```
