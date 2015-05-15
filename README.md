@@ -22,6 +22,7 @@ A curated list of awesome (IMHO) programming languages (with an open-source impl
 
 ### Less known :yum:
 * [AHK](https://github.com/lexikos/autohotkey_l)
+* [Volt](https://github.com/VoltLang/Volta)
 * [Wren](https://github.com/munificent/wren), a really nice scripting language
 * [Idris](http://idris-lang.org/)
 * [Vivaldi](https://github.com/jeorgun/Vivaldi), rather new but interesting
